@@ -1,0 +1,18 @@
+section {
+    display: inline-block;
+    width: 30%;
+    margin-left: 2.5%;
+    vertical-align: top;
+}
+h1 {
+    color: blue;
+}
+p {
+    color: darkviolet;
+}
+li {
+    border: solid 1.5px yellow;
+}
+span {
+    border: dotted 2px darkcyan;
+}

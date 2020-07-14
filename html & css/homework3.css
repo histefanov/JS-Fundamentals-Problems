@@ -1,0 +1,51 @@
+div {
+    display: inline-block;
+    padding: 20px;
+    border-radius: 5px;
+    margin: 20px;
+    font-family: Amatic SC;
+    font-size: xx-large;
+    color: white;
+    font-weight: 600;
+}
+#green:hover {
+    background-color: darkgreen;
+    color: rgb(154, 245, 146);
+    /* border: solid 3px darkgreen; */
+}
+#blue:hover {
+    background-color: darkblue;
+    color: rgb(140, 142, 255);
+}
+#red:hover {
+    background-color: darkred;
+    color: rgb(255, 185, 185);
+}
+#purple:hover {
+    background-color: rgb(78, 0, 78);
+    color: rgb(255, 158, 255);
+}
+#orange:hover {
+    background-color: darkorange;
+    color: rgb(255, 216, 145);
+}
+#green {
+    background-color:green;
+    border: solid 3px darkgreen;
+}
+#blue {
+    background-color: blue;
+    border: solid 3px darkblue;
+}
+#red {
+    background-color: red;
+    border: solid 3px darkred;
+}
+#purple {
+    background-color: purple;
+    border: solid 3px rgb(78, 0, 78);
+}
+#orange {
+    background-color: orange;
+    border: solid 3px darkorange;
+}
